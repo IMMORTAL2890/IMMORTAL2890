@@ -3,7 +3,7 @@
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 - 🌱 I’m currently learning ** Web developement**
 
-- 👨‍💻 All of my projects are available at www.linkedin.com/in/yogesh-mali-b42632286
+- 👨‍💻 All of my projects are available at www.linkedin.com/in/shubham-bagul-971986217
 
 - 💬 Ask me about *,JAVA,C++,DSA,HTML,CSS,Javascript*
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>                                           
 <p align="left">
                                                     
-<a href="www.linkedin.com/in/yogesh-mali-b42632286" target="blank"><img align="center"
+<a href="www.linkedin.com/in/shubham-bagul-971986217" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" www.linkedin.com/in/yogesh-mali-b42632286" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCC_tSJZi-SeMkHFxiy4sL4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucojospamwhg5j9sj4sgtbzw" height="30" width="40" /></a>
 </p>
